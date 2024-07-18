@@ -5,7 +5,7 @@ The usage is simple:
 
 move the sctip to the folder, where both the raw data and your design tables are found in. Open the script in an environment of your choice (ideally RStudio), adapt the values to those of your analysis and run the code. The script will create a results folder with all the results you need.
 
-Aside the script you will also find sample data upon which this script was created.
+Aside the script you will also find screenshots on how the data should be annotated (using the hashtags in the design tables)
 
 This script:
 * automatically detects the header of the excel
